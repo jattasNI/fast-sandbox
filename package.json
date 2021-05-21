@@ -1,7 +1,7 @@
 {
   "scripts": {
     "build": "webpack --mode=production",
-    "dev": "webpack-dev-server"
+    "dev": "webpack serve"
   },
   "dependencies": {
     "@microsoft/fast-components": "^1.21.1",
